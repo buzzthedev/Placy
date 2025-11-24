@@ -6,7 +6,7 @@
   },
   "exported_at": "2025-09-30T04:05:57-04:00",
   "name": "Placy",
-  "author": "Harfull",
+  "author": "info@buzz.dev",
   "description": "The official egg for running a Placy server",
   "features": null,
   "docker_images": {
